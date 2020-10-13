@@ -25,4 +25,15 @@ yarn add react-icons
 https://reactrouter.com/web/guides/quick-start
 yarn add react-router-dom
 yarn add @types/react-router-dom -D
-1.20m
+
+https://leafletjs.com/
+https://react-leaflet.js.org/
+yarn add leaflet react-leaflet
+yarn add @types/react-leaflet -D
+
+https://www.google.com/maps/@-27.2092052,-49.6401092,15z
+
+https://www.openstreetmap.org/#map=4/-15.13/-53.19
+
+https://www.mapbox.com/
+https://docs.mapbox.com/mapbox-gl-js/api/map/

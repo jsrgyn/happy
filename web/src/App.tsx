@@ -1,14 +1,16 @@
 import React from "react";
 // import logo from './logo.svg';
-// import './App.css';
-import { FiArrowRight } from "react-icons/fi";
+// import './App.css'; 
+// import { FiArrowRight } from "react-icons/fi";
 
 // JSX - JavaScript XML
 
 import "./styles/global.css";
-import "./styles/pages/landing.css";
+// import "./styles/pages/landing.css";
 
-import logoImg from "./images/logo.svg";
+import Routes from './routes';
+
+// import logoImg from "./images/logo.svg";
 
 // interface TitleProps {
 //   text: string;
@@ -41,26 +43,28 @@ function App() {
     //   <Title text="Titulo 3" />
     //   <Title text="Titulo 4" />
     // </div>
-    <div id="page-landing">
-      {/* <h1>Hello World</h1> */}
-      <div className="content-wrapper">
-        <img src={logoImg} alt="Happy" />
+    // <div id="page-landing">
+    //   {/* <h1>Hello World</h1> */}
+    //   <div className="content-wrapper">
+    //     <img src={logoImg} alt="Happy" />
 
-        <main>
-          <h1>Leve felicidade para o mundo</h1>
-          <p>Visite orfanatos e mude o dia de muitas crianças.</p>
-        </main>
+    //     <main>
+    //       <h1>Leve felicidade para o mundo</h1>
+    //       <p>Visite orfanatos e mude o dia de muitas crianças.</p>
+    //     </main>
 
-        <div className="location">
-          <strong>Rio do Sul</strong>
-          <span>Santa Catarina</span>
-        </div>
+    //     <div className="location">
+    //       <strong>Rio do Sul</strong>
+    //       <span>Santa Catarina</span>
+    //     </div>
 
-        <a href="" className="enter-app">
-          <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6" />
-        </a>
-      </div>
-    </div>
+    //     <a href="" className="enter-app">
+    //       <FiArrowRight size={26} color="rgba(0, 0, 0, 0.6" />
+    //     </a>
+    //   </div>
+    // </div>
+
+    <Routes />
   );
 }
 
