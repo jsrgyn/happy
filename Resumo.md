@@ -37,3 +37,23 @@ https://www.openstreetmap.org/#map=4/-15.13/-53.19
 
 https://www.mapbox.com/
 https://docs.mapbox.com/mapbox-gl-js/api/map/
+
+=================================================
+2º Dia: Back-end com Node.js
+=================================================
+
+yarn init -y
+yarn add express
+yarn add @types/express -D
+yarn tsc --init
+yarn add ts-node-dev -D
+
+Extenson JSON View (Navegador).
+
+yarn add typeorm sqlite3
+
+http://knexjs.org/
+
+yarn typeorm
+
+Parei com 38 min
