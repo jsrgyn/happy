@@ -56,4 +56,12 @@ http://knexjs.org/
 
 yarn typeorm
 
-Parei com 38 min
+yarn typeorm migration:create -n create_orphanages
+
+yarn typeorm migration:run
+
+https://www.beekeeperstudio.io/
+
+yarn typeorm migration:revert
+
+Com 1hs.
