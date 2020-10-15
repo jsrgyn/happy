@@ -64,4 +64,9 @@ https://www.beekeeperstudio.io/
 
 yarn typeorm migration:revert
 
-Com 1hs.
+yarn typeorm migration:create -n create_images
+
+yarn add multer
+yarn add @types/multer -D
+
+Parei 1:27min
