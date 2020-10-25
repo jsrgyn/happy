@@ -5,6 +5,13 @@
 /.pnp
 .pnp.js
 
+# uploads
+uploads/*
+!uploads/.gitkeep
+
+# Base de dados (Sqlite)
+*.sqlite
+
 # testing
 /coverage
 

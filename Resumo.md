@@ -52,6 +52,8 @@ Extenson JSON View (Navegador).
 
 yarn add typeorm sqlite3
 
+http://typeorm.io
+
 http://knexjs.org/
 
 yarn typeorm
@@ -69,4 +71,41 @@ yarn typeorm migration:create -n create_images
 yarn add multer
 yarn add @types/multer -D
 
-Parei 1:27min
+https://blog.rocketseat.com.br/variaveis-ambiente-nodesjs/
+
+yarn add express-async-errors
+
+yarn add yup
+yarn add @types/yup -D
+
+yarn add cors
+yarn add @types/cors -D
+
+=================================================
+3º Dia: Back-end com Node.js
+Dia: Finalizando front-end
+=================================================
+
+fetch();
+
+yarn add axios
+
+https://blog.rocketseat.com.br/react-native-shimmer/
+
+https://www.google.com/search?sxsrf=ALeKk00pyvX1hdGbwPVp26u57kVh_1_vSQ%3A1603635739631&ei=G4qVX8qYJr_Z5OUP9OCc0Ac&q=google+maps+route+link+latitude+longitude&oq=google+maps+route+link+latitude+longitude&gs_lcp=CgZwc3ktYWIQAzIFCAAQywE6BwgAEEcQsAM6BAgAEA06AggAULGwBFiwzQRgntgEaAJwAHgAgAHAAYgBngySAQQwLjEwmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwiKkvDU-M_sAhW_LLkGHXQwB3oQ4dUDCA0&uact=5
+
+https://stackoverflow.com/questions/45116011/generate-a-google-map-link-with-directions-using-latitude-and-longitude
+
+https://www.google.com/maps/dir/?api=1&origin=34.1030032,-118.41046840000001&destination=34.059808,-118.368152
+
+https://www.google.com/search?sxsrf=ALeKk00xIibZETMJzpooycP3aCt_t5OQcw%3A1603658647532&ei=l-OVX5H-H8GV0AavnLn4DQ&q=filelist+to+array&oq=filelist+to+array&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEAcQHjIGCAAQBxAeMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjIICAAQCBAHEB4yCAgAEAgQBxAeMgoIABAIEAcQChAeOgcIABBHELADUNpEWNpEYI5KaAFwAHgAgAHcAYgB3AGSAQMyLTGYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab&ved=0ahUKEwjRpZuAztDsAhXBCtQKHS9ODt8Q4dUDCA0&uact=5
+
+https://pt.stackoverflow.com/questions/406140/como-fa%C3%A7o-para-converter-filelist-para-array-em-javascript
+
+https://www.google.com/search?q=url+createobjecturl&oq=url+createobjecturl&aqs=chrome..69i57.15313j1j7&sourceid=chrome&ie=UTF-8
+
+https://developer.mozilla.org/pt-BR/docs/Web/API/URL/createObjectURl
+
+https://www.google.com/search?sxsrf=ALeKk012Zqnvc41n9byAjyfKXqrVUbQgLg%3A1603659141017&ei=heWVX45UluLk5Q-dxpuQAw&q=yup+cast&oq=yup+cast&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDLATIFCAAQywEyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CAgAELEDEIMBOgUIABCxAzoFCC4QsQM6CAguELEDEIMBOgQIABBDOgcIABCxAxBDUNOWd1ifpXdg8qd3aABwAHgAgAHrAYgB-A2SAQMyLTiYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjOqsPrz9DsAhUWMbkGHR3jBjIQ4dUDCA0&uact=5
+
+https://github.com/jquense/yup
