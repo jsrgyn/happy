@@ -159,3 +159,24 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 yarn add @react-navigation/stack
 
 -Criando tela de mapa
+
+=================================================
+5º Dia: Finalizando app mobile
+Dia: concluindo app mobile
+=================================================
+
+-Fluxo de cadastro
+
+Parei com 5 min
+
+-Criando fluxo de cadastro de orfanato
+
+-Adicionando telas faltantes
+
+-Detalhe do orfanato
+
+-Criando orfanato
+
+-Desafios
+
+-Surpresa especial!
