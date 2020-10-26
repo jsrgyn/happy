@@ -82,7 +82,7 @@ yarn add cors
 yarn add @types/cors -D
 
 =================================================
-3º Dia: Back-end com Node.js
+3º Dia: Front-end reactjs
 Dia: Finalizando front-end
 =================================================
 
@@ -109,3 +109,53 @@ https://developer.mozilla.org/pt-BR/docs/Web/API/URL/createObjectURl
 https://www.google.com/search?sxsrf=ALeKk012Zqnvc41n9byAjyfKXqrVUbQgLg%3A1603659141017&ei=heWVX45UluLk5Q-dxpuQAw&q=yup+cast&oq=yup+cast&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgUIABDLATIFCAAQywEyBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB46CAgAELEDEIMBOgUIABCxAzoFCC4QsQM6CAguELEDEIMBOgQIABBDOgcIABCxAxBDUNOWd1ifpXdg8qd3aABwAHgAgAHrAYgB-A2SAQMyLTiYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwjOqsPrz9DsAhUWMbkGHR3jBjIQ4dUDCA0&uact=5
 
 https://github.com/jquense/yup
+
+=================================================
+4º Dia: Estruturando app mobile
+Dia: app mobile
+=================================================
+
+-Conceitos do React Native
+
+-Por que vamos usar Expo?
+https://expo.io/
+https://expo.canny.io/
+
+-Criar o nosso projeto
+yarn global add expo-cli ou npm install -g expo-cli
+
+expo -h
+
+yarn global bin
+
+expo init mobile
+
+https://youtu.be/eSjFDWYkdxM
+
+-Diferenças pro ReactJS
+
+yarn start
+
+-Criando onboarding
+
+https://docs.expo.io/versions/v36.0.0/sdk/map-view/
+
+expo install react-native-maps
+
+https://feathericons.com/
+
+https://github.com/expo/google-fonts
+
+expo install @expo-google-fonts/nunito expo-font
+
+-Trabalhando com rotas
+
+https://reactnavigation.org/
+
+yarn add @react-navigation/native
+
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+yarn add @react-navigation/stack
+
+-Criando tela de mapa
