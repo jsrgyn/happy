@@ -167,7 +167,7 @@ Dia: concluindo app mobile
 
 -Fluxo de cadastro
 
-Parei com 5 min
+Parei com 16 min
 
 -Criando fluxo de cadastro de orfanato
 

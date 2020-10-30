@@ -1,11 +1,14 @@
 import React from 'react';
-import { StyleSheet, Text, View, Dimensions, TouchableOpacity } from 'react-native';
+// import { StyleSheet, Text, View, Dimensions, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, Dimensions } from 'react-native';
 import MapView, { Marker, Callout, PROVIDER_GOOGLE } from 'react-native-maps';
 import { Feather } from '@expo/vector-icons';
 
 import { useNavigation } from '@react-navigation/native';
 
 import mapMarker from '../images/map-marker.png';
+
+import { RectButton } from 'react-native-gesture-handler';
 
 export default function OrphanagesMap() {
 
@@ -60,11 +63,14 @@ export default function OrphanagesMap() {
     <View style={styles.footer}>
       <Text style={styles.footerText}>2 orfanatos encontrados</Text>
 
-      {/* <TouchableOpacity style={StyleSheet.createOrphanageButton} onPress={() => {}}> */}
-      <TouchableOpacity style={StyleSheet.createOrphanageButton} onPress={handleNavigateToCreateOrphanage}>
+      {/* <TouchableOpacity style={styles.createOrphanageButton} onPress={() => {}}> */}
+      {/* <TouchableOpacity style={styles.createOrphanageButton} onPress={handleNavigateToCreateOrphanage}>
         <Feather name="plus" size={20} color="#FFF" />
+      </TouchableOpacity> */}
 
-      </TouchableOpacity>
+      <RectButton style={styles.createOrphanageButton} onPress={handleNavigateToCreateOrphanage}>
+        <Feather name="plus" size={20} color="#FFF" />
+      </RectButton>
 
     </View>
     
@@ -124,7 +130,7 @@ const styles = StyleSheet.create({
     color: '#8fa7b3',
   },
 
-  createOrphanageButton: {
+  createOrphanageButton: {    
     width: 56,
     height: 56,
     backgroundColor: '#15c3d6',
