@@ -186,8 +186,12 @@ https://www.google.com/search?sxsrf=ALeKk03lN1WutKOKzMlqz0P3SjkIKPYzLQ%3A1604233
 
 -Criando orfanato
 
-Parando com 1h:03min;
+expo install expo-image-picker
 
 -Desafios
+
+https://github.com/rocketseat-education/nlw-03-omnistack
+
+https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4
 
 -Surpresa especial!

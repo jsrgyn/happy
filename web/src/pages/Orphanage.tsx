@@ -132,9 +132,10 @@ export default function Orphanage() {
                 scrollWheelZoom={false}
                 doubleClickZoom={false}
               >
-                <TileLayer 
+                {/* <TileLayer 
                   url={`https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/256/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_MAPBOX_TOKEN}`}
-                />
+                /> */}
+                <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" />
                 {/* <Marker interactive={false} icon={happyMapIcon} position={[-27.2092052,-49.6401092]} /> */}
                 {/* <Marker interactive={false} icon={mapIcon} position={[-27.2092052,-49.6401092]} /> */}
                 <Marker interactive={false} icon={mapIcon} position={[orphanage?.latitude || 0, orphanage?.longitude || 0]} />
