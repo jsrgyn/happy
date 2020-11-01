@@ -167,13 +167,17 @@ Dia: concluindo app mobile
 
 -Fluxo de cadastro
 
-Parei com 16 min
-
 -Criando fluxo de cadastro de orfanato
 
 -Adicionando telas faltantes
 
 -Detalhe do orfanato
+
+yarn add axios
+
+adb reverse tcp:3333 tcp:3333
+
+Parei com 41 min
 
 -Criando orfanato
 
