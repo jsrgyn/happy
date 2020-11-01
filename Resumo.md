@@ -177,7 +177,14 @@ yarn add axios
 
 adb reverse tcp:3333 tcp:3333
 
-Parei com 41 min
+https://www.google.com/search?q=blog+rocketseat+shimmer&oq=blog+rocketseat+shimmer&aqs=chrome..69i57j69i60.19374j0j7&sourceid=chrome&ie=UTF-8
+
+https://blog.rocketseat.com.br/react-native-shimmer/
+
+deep linking google maps
+https://www.google.com/search?sxsrf=ALeKk03lN1WutKOKzMlqz0P3SjkIKPYzLQ%3A1604233308600&ei=XKieX8qsJOfR5OUPqKyo-AM&q=deep+linking+google+maps&oq=deep+linking+google+maps&gs_lcp=CgZwc3ktYWIQAzICCAAyBggAEBYQHjIICAAQFhAKEB4yBggAEBYQHjoECAAQQzoICAAQsQMQgwE6BQgAELEDOgQILhBDOgQIABAKOgUILhCxAzoFCAAQywE6BAgAEA06BggAEA0QHjoICAAQCBANEB5Qjw1YnYMBYKmIAWgBcAF4AYAB8xyIAY_zAZIBETAuMy4zLjEuNi00LjcuMi40mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwjKyvvjquHsAhXnKLkGHSgWCj8Q4dUDCA0&uact=5
+
+Parando com 50min
 
 -Criando orfanato
 
